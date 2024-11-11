@@ -1,3 +1,5 @@
 ansible==2.10.7
 numpy==1.25.0
 os
+urllib3=1.26.9
+sdfsdfs=2.3
