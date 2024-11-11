@@ -1,3 +1,3 @@
-import ansible
+import urllib
 
 print("HELLO")
