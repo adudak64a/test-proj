@@ -1,6 +1,6 @@
 import numpy as np
 import os
-import ansible
+import urllib
 
 data = [1, 2, 3, 4, 5]
 mean_value = np.mean(data)
