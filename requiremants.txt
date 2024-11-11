@@ -1,5 +1,4 @@
-ansible==2.10.7
+ansible==2.10.4
 numpy==1.25.0
 os
-urllib3==2.2.3
-sdfsdfs==2.3
+urllib3==2.1.3
