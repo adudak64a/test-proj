@@ -1,2 +1,3 @@
 ansible==2.10.7
 numpy==1.26.1
+os
