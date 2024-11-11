@@ -1,7 +1,7 @@
 import numpy as np
-import ansible
-arr = np.array([1, 2, 3, 4, 5])
 
-print(arr)
+data = [1, 2, 3, 4, 5]
+mean_value = np.mean(data)
+print(mean_value)  # Output: 3.0
 
-print(type(arr))
+np.source(np.mean)
